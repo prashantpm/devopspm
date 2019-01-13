@@ -1,4 +1,5 @@
 commands.txt
+dev.sh
 index.html
 m1.sh
 m2.sh
