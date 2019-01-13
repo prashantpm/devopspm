@@ -174,4 +174,10 @@ KiB Swap:(B[m[39;49m[1m        0 (B[m[39;49mtotal,(B[m[39;49m[1m     
 
 
 [?1l>[45;1H
-[?12l[?25h[K
+[?12l[?25h[KFilesystem      Size  Used Avail Use% Mounted on
+/dev/xvda2       10G  1.4G  8.7G  14% /
+devtmpfs        473M     0  473M   0% /dev
+tmpfs           495M     0  495M   0% /dev/shm
+tmpfs           495M   13M  482M   3% /run
+tmpfs           495M     0  495M   0% /sys/fs/cgroup
+tmpfs            99M     0   99M   0% /run/user/1000
