@@ -1,0 +1,11 @@
+total 28
+-rw-rw-r--. 1 ec2-user ec2-user   0 Jan 13 08:21 deccan.sh
+-rw-rw-r--. 1 ec2-user ec2-user 788 Jan 12 12:00 index.html
+-rw-rw-r--. 1 ec2-user ec2-user 651 Jan 13 07:38 m1.sh
+-rw-rw-r--. 1 ec2-user ec2-user 324 Jan 12 10:38 myfile.txt
+-rw-rw-r--. 1 ec2-user ec2-user   0 Jan 12 10:33 mylogs.txt
+-rw-rw-r--. 1 ec2-user ec2-user   0 Jan 12 10:34 ping
+-rw-rw-r--. 1 ec2-user ec2-user  89 Jan 12 10:42 product.java
+-rw-rw-r--. 1 ec2-user ec2-user  14 Jan 12 10:31 README.md
+-rw-rw-r--. 1 ec2-user ec2-user   4 Jan 12 10:53 test1.sh
+-rw-rw-r--. 1 ec2-user ec2-user  32 Jan 12 10:52 test.sh
