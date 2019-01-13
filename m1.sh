@@ -8,5 +8,5 @@ total 28
 -rw-rw-r--. 1 ec2-user ec2-user   0 Jan 12 10:34 ping
 -rw-rw-r--. 1 ec2-user ec2-user  89 Jan 12 10:42 product.java
 -rw-rw-r--. 1 ec2-user ec2-user  14 Jan 12 10:31 README.md
--rw-rw-r--. 1 ec2-user ec2-user   4 Jan 12 10:53 test1.sh
--rw-rw-r--. 1 ec2-user ec2-user  32 Jan 12 10:52 test.sh
+-rw-rw-r--. 1 ec2-user ec2-user   4 Jan 13 10:53 test1.sh
+-rw-rw-r--. 1 ec2-user ec2-user  32 Feb 14 10:52 test.sh
